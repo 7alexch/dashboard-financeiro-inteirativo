@@ -6,23 +6,17 @@ O dashboard foi construído utilizando Power BI e permite analisar receitas, cus
 
 ---
 
+## 🎬 Demonstração Interativa
+
+![Dashboard Financeiro](./Gif-dashboard.gif)
+
+---
+
 ## 🌐 Dashboard Interativo
 
 👉 **Acesse o relatório online:**
 
 https://app.powerbi.com/view?r=eyJrIjoiZTNjNWFjMmQtM2RkZi00YmIyLWI1NjYtZjBkZTUwZjczZDhhIiwidCI6ImM3ZDQ0MTJiLWNmYTctNGM5Mi1iOGE1LTZmZGFkOTllYTk2MiJ9
-
----
-
-## 📷 Visão Geral do Dashboard
-
-![Visual do Dashboard](./dashboard-financeiro.png)
-
----
-
-## 🎬 Demonstração Interativa
-
-![Dashboard Financeiro](./Gif-dashboard.gif)
 
 ---
 
@@ -102,15 +96,15 @@ Construção de dashboard executivo com foco em análise financeira, storytellin
 
 ## 📂 Estrutura do Projeto
 
-```text
 dashboard-financeiro-powerbi/
-│
+
 ├── Dashboard_Financeiro.pbix
-├── dashboard-financeiro.png
+
 ├── Gif-dashboard.gif
+
 ├── README.md
+
 └── dataset/
-```
 
 ---
 
